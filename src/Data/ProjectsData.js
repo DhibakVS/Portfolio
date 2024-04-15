@@ -2,19 +2,19 @@ const DUMMY_PROJECTS=[
     {
         projectTitle:'PortFolio Template',
         description: 'This project is a React app to generate a creative professional website based on Data provided. The website uses no backend and is free to fork and use.',
-        sourceLink:'https://github.com/killer-abhi/Portfolio.git',
-        lastUpdated:'Jan 20 2023'
+        sourceLink:'https://github.com/DhibakVS/Portfolio',
+        lastUpdated:'Apr 12 2024'
     },
     {
-        projectTitle:'Expense Tracker',
-        description: 'A React project to get a track of weekly expenses. It also creates a graphical data to help monitor the expenses on daily basis',
-        sourceLink:'https://github.com/killer-abhi/expense-tracker.git',
-        lastUpdated:'Dec 30 2022'
+        projectTitle:'MaxiShop V1',
+        description: 'A C# API project to generate CRUD Apis using Microsoft SQL as its backend and implemented using repository pattern',
+        sourceLink:'https://github.com/DhibakVS/MaxiShopV1',
+        lastUpdated:'FEB 22 2024'
     },
     {
-        projectTitle:'Realtime Chat Site',
-        description: 'It is a Realtime Chat Website built using Socket.io and Express with NodeJs as a backend and MongoDB as a database. It updates the chat messages in realtime with Typing notification of other users',
-        sourceLink:'https://github.com/killer-abhi/realtime-chat-site.git',
+        projectTitle:'Medicine Store API',
+        description: 'Medicine Store API is built with C# .Net and uses MySql as database and it is implemented using Repository pattern. Data is generated using Migration method and it is mapped using EF Core',
+        sourceLink:'https://github.com/DhibakVS/MasterAPI',
         lastUpdated:'Dec 10 2022'
     },
     {
