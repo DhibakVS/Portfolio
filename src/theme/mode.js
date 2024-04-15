@@ -36,6 +36,7 @@ const Mode=()=>{
         if (mode==='dark') {
             handleModeChange(1);
         }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
     }, [mode]);
 
     function handleModeChange(index) {
